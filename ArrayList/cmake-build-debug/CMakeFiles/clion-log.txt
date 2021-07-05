@@ -1,0 +1,4 @@
+"E:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\sewer\Documents\C++ CLion\ArrayList"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sewer/Documents/C++ CLion/ArrayList/cmake-build-debug
